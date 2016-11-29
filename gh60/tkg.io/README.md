@@ -13,8 +13,9 @@
   * Normal
   * 2 layers
   * Disregard the LED config
-  * Fn3 -> "Layer advanced action > Set then clear", Layer 1
-  * Fn4 -> "Layer advanced action > Set then clear", Layer 1
+  * Fn config
+    * Fn3 -> "Layer advanced action > Set then clear", Layer 1
+    * Fn4 -> "Layer advanced action > Set then clear", Layer 1
 
 ## FAQ
 
