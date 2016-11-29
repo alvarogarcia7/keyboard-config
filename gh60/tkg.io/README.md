@@ -3,7 +3,7 @@
   1. Go to [tkg.io](http://tkg.io)
   1. Follow the flashing configuration
   1. Click reset on the keyboard (~5 seconds)
-  1. Click burn .eep
+  1. Click burn .eep file
   1. Wait for the two (2) processes to finish
   1. You're done
 
