@@ -19,7 +19,7 @@
     
 ## Notes
 
-  * Multiple buttons can be mapped to a key. See Fn4 at [this commit](https://github.com/alvarogarcia7/keyboard-config/commit/09d4cd52b975f1a1485fd6fd886022da4b1294fd)
+  * Multiple buttons can be mapped to a key. See `Fn4` at [this commit](https://github.com/alvarogarcia7/keyboard-config/commit/09d4cd52b975f1a1485fd6fd886022da4b1294fd)
 
 ## FAQ
 
