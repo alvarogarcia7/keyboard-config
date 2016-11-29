@@ -15,3 +15,9 @@
   * Disregard the LED config
   * Fn3 Set then clear, Layer 1
   * Fn4 Set then clear, Layer 1
+
+## FAQ
+
+### My button `burn .eep file` does not turn dark green
+
+Have you installed the extension?
